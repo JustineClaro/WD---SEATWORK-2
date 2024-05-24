@@ -13,7 +13,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
 </div>
 
 <br />
@@ -60,10 +59,8 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- Resume Website
+- Use HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
