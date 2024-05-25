@@ -58,9 +58,9 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
+
 - Resume Website
-- Use HTML and CSS
+- Use of HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
